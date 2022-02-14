@@ -15,6 +15,7 @@ namespace ACD
             int b = 10;
 
             int c = a + b;
+            Console.WriteLine(c);
         }
             
         
